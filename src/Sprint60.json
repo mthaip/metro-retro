@@ -1,0 +1,800 @@
+{
+    "Sprint": [
+        {
+            "author": {
+                "name": "Cornelia Zumtobel",
+                "email": "cornelia.zumtobel@towa.at"
+            },
+            "content": "2",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:43:54.826Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jeannine Prüger",
+                "email": "jeannine.prueger@towa.at"
+            },
+            "content": "2",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:44:21.381Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Welte",
+                "email": "martin.welte@towa.at"
+            },
+            "content": "2",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:43:45.158Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Matthias Frank",
+                "email": "matthias.frank@towa.at"
+            },
+            "content": "1-",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:44:00.823Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "1-2",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:48:43.029Z",
+            "comments": []
+        }
+    ],
+    "Happiness": [
+        {
+            "author": {
+                "name": "Cornelia Zumtobel",
+                "email": "cornelia.zumtobel@towa.at"
+            },
+            "content": "3",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:44:09.116Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jeannine Prüger",
+                "email": "jeannine.prueger@towa.at"
+            },
+            "content": "1/2",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:44:27.409Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Welte",
+                "email": "martin.welte@towa.at"
+            },
+            "content": "1",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:43:55.363Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Matthias Frank",
+                "email": "matthias.frank@towa.at"
+            },
+            "content": "2",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:44:10.612Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "3",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:48:47.717Z",
+            "comments": []
+        }
+    ],
+    "What do we need on our journey?": [
+        {
+            "author": {
+                "name": "Cornelia Zumtobel",
+                "email": "cornelia.zumtobel@towa.at"
+            },
+            "content": "refined tickets",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:56:09.469Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Cornelia Zumtobel",
+                "email": "cornelia.zumtobel@towa.at"
+            },
+            "content": "less customer meetings?",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:56:33.310Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Cornelia Zumtobel",
+                "email": "cornelia.zumtobel@towa.at"
+            },
+            "content": "customer meetngs always with po",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:57:23.130Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Cornelia Zumtobel",
+                "email": "cornelia.zumtobel@towa.at"
+            },
+            "content": "fun\n",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:58:17.140Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jeannine Prüger",
+                "email": "jeannine.prueger@towa.at"
+            },
+            "content": "kleine tickets ",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:55:13.030Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jeannine Prüger",
+                "email": "jeannine.prueger@towa.at"
+            },
+            "content": "wenig projekte",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:55:28.200Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jeannine Prüger",
+                "email": "jeannine.prueger@towa.at"
+            },
+            "content": "genaues testing",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:55:35.075Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jeannine Prüger",
+                "email": "jeannine.prueger@towa.at"
+            },
+            "content": "zeit für weiterbildung",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:55:54.597Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Welte",
+                "email": "martin.welte@towa.at"
+            },
+            "content": "neue Projekte",
+            "group": null,
+            "votes": 1,
+            "date": "2022-01-26T08:55:09.888Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Welte",
+                "email": "martin.welte@towa.at"
+            },
+            "content": "Spieleabende",
+            "group": null,
+            "votes": 2,
+            "date": "2022-01-26T08:55:33.147Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Welte",
+                "email": "martin.welte@towa.at"
+            },
+            "content": "zeit für interne Dinge",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:56:30.706Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Welte",
+                "email": "martin.welte@towa.at"
+            },
+            "content": "neue(n) PO",
+            "group": null,
+            "votes": 1,
+            "date": "2022-01-26T08:57:41.922Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Matthias Frank",
+                "email": "matthias.frank@towa.at"
+            },
+            "content": "Our Fast PR-Reviews & good testings",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:55:34.947Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Matthias Frank",
+                "email": "matthias.frank@towa.at"
+            },
+            "content": "Better Prepared tickets",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:56:28.344Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Matthias Frank",
+                "email": "matthias.frank@towa.at"
+            },
+            "content": "Quicker Refinments",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:57:40.109Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "Tickets die ready sind",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:55:22.382Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "Refinement wichtig",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:56:01.217Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "code review calls",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:56:18.987Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "gute hand-overs",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:56:31.568Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "den spieleabend",
+            "group": null,
+            "votes": 1,
+            "date": "2022-01-26T08:56:47.355Z",
+            "comments": []
+        }
+    ],
+    "What do we want to leave behind on our journey?": [
+        {
+            "author": {
+                "name": "Cornelia Zumtobel",
+                "email": "cornelia.zumtobel@towa.at"
+            },
+            "content": "gegeneinander der Tribes",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:10:52.638Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Cornelia Zumtobel",
+                "email": "cornelia.zumtobel@towa.at"
+            },
+            "content": "gegeneinander der Tribes",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:11:39.165Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Cornelia Zumtobel",
+                "email": "cornelia.zumtobel@towa.at"
+            },
+            "content": "Ausnahmen, Storyblocker usw.",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:11:46.199Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Cornelia Zumtobel",
+                "email": "cornelia.zumtobel@towa.at"
+            },
+            "content": "Pseudo\nDeadlines",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:12:43.679Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jeannine Prüger",
+                "email": "jeannine.prueger@towa.at"
+            },
+            "content": "kein testing page link in testing ticket",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:10:20.882Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jeannine Prüger",
+                "email": "jeannine.prueger@towa.at"
+            },
+            "content": "ungenaue tickets ",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:11:28.801Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jeannine Prüger",
+                "email": "jeannine.prueger@towa.at"
+            },
+            "content": "philipp testing + po review",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:12:09.907Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Welte",
+                "email": "martin.welte@towa.at"
+            },
+            "content": "die bank deren namen nicht genannt werden darf",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:10:13.393Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Welte",
+                "email": "martin.welte@towa.at"
+            },
+            "content": "hau ruck aktionen. ",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:11:19.231Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Welte",
+                "email": "martin.welte@towa.at"
+            },
+            "content": "Prozessbrüche",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:12:21.671Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Matthias Frank",
+                "email": "matthias.frank@towa.at"
+            },
+            "content": "Last second tickets",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:10:57.509Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Matthias Frank",
+                "email": "matthias.frank@towa.at"
+            },
+            "content": "Christmas Theme on Präsi",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:12:38.096Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Matthias Frank",
+                "email": "matthias.frank@towa.at"
+            },
+            "content": "Doing the präsi manually",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:12:59.165Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "Dev-Customer contact",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:10:21.638Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "not having a deadline for the sprint",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:10:31.301Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "sometimes bad sprint board state mgmt ",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:10:50.378Z",
+            "comments": []
+        }
+    ],
+    "Is there something we need to change to reach our goal?": [
+        {
+            "author": {
+                "name": "Cornelia Zumtobel",
+                "email": "cornelia.zumtobel@towa.at"
+            },
+            "content": "Feedback to PO substitutions ",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:27:21.271Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Cornelia Zumtobel",
+                "email": "cornelia.zumtobel@towa.at"
+            },
+            "content": "stories für refinement vorher durchgeben\n",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:28:13.611Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jeannine Prüger",
+                "email": "jeannine.prueger@towa.at"
+            },
+            "content": "dont changecurrent team spirit",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:27:01.659Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jeannine Prüger",
+                "email": "jeannine.prueger@towa.at"
+            },
+            "content": "projekte + tickets",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:27:14.468Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Welte",
+                "email": "martin.welte@towa.at"
+            },
+            "content": "dependencies vorher checken",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:26:30.672Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Matthias Frank",
+                "email": "matthias.frank@towa.at"
+            },
+            "content": "besser auf refinements vorbereiten",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:27:06.099Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "Definition of Ready kontrollieren",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:26:54.124Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "Prozess noch besser einhalten",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:27:22.013Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "Blocker gleich rangehen",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:28:39.679Z",
+            "comments": []
+        }
+    ],
+    "Action Items": [
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "Reminder: apply Luca Availability in Planning :); Matthias new Role ",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-24T08:03:06.435Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "Philipp Definition of Ready kontrollieren",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:02:00.080Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "Philipp Feedback an Alex bzgl BTV Tickets Definitions",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:05:46.187Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "Jeannine - Gabsi Tool ",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:20:13.006Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "Philipp Pre-Sprint-Change Day Deadline Calendar Appointment blocker - 15:00 ",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:25:09.669Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "* präsi prep\n* tickets check in backlog\n* nur noch reviews",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T09:34:18.572Z",
+            "comments": []
+        }
+    ],
+    "Introduction": [
+        {
+            "author": {
+                "name": "Cornelia Zumtobel",
+                "email": "cornelia.zumtobel@towa.at"
+            },
+            "content": "Jaggaer erledigt - JUFA kommt",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:43:26.175Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jeannine Prüger",
+                "email": "jeannine.prueger@towa.at"
+            },
+            "content": "captcha\nflow",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:42:46.545Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Welte",
+                "email": "martin.welte@towa.at"
+            },
+            "content": "smooth\nsailing",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:42:44.082Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Matthias Frank",
+                "email": "matthias.frank@towa.at"
+            },
+            "content": "many\nmeetings",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:43:30.252Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "good flow\n\numzug\n",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:43:36.348Z",
+            "comments": []
+        }
+    ],
+    "Review": [
+        {
+            "author": {
+                "name": "Cornelia Zumtobel",
+                "email": "cornelia.zumtobel@towa.at"
+            },
+            "content": "1",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:44:03.449Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jeannine Prüger",
+                "email": "jeannine.prueger@towa.at"
+            },
+            "content": "1",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:44:24.277Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Welte",
+                "email": "martin.welte@towa.at"
+            },
+            "content": "1",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:43:50.343Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Matthias Frank",
+                "email": "matthias.frank@towa.at"
+            },
+            "content": "1",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:44:07.393Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philipp Hemmer",
+                "email": "philipp.hemmer@towa.at"
+            },
+            "content": "1",
+            "group": null,
+            "votes": 0,
+            "date": "2022-01-26T08:48:46.278Z",
+            "comments": []
+        }
+    ],
+    "Last Action Items": []
+}

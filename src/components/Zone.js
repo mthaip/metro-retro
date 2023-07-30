@@ -9,6 +9,7 @@ function Zone(props) {
   );
 
   if (filters.votes) {
+    // eslint-disable-next-line eqeqeq
     results = results.filter((note) => note.votes == filters.votes);
   }
 

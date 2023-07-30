@@ -41,6 +41,7 @@ jobs:
         run: npm run build
       - name: Setup Pages
         uses: actions/configure-pages@v3
+        run: mkdir dist
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
